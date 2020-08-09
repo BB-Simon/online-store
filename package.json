@@ -1,0 +1,39 @@
+{
+  "name": "phone-e-commerce",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-owl-carousel": "^2.3.1",
+    "react-paypal-express-checkout": "^1.0.5",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.1",
+    "react-slick": "^0.27.0",
+    "react-slick-carousel": "^0.14.9",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
